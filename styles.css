@@ -62,7 +62,8 @@ hr {
 .details {
   text-align: left;
   width: 60%;
-  margin: auto;
+  margin-left: auto;
+  position: relative;
 }
 .first-line {
   font-size: 2rem;
